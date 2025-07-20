@@ -10,7 +10,7 @@ I'm a passionate Computer Science and Engineering student at **Dhaka City Colleg
 Currently exploring the world of **cross-platform app development**, I'm always curious to learn and excited to bring ideas to life.
 
 📧 Email: abubakkarsakib360@gmail.com  
-📍 Location: Ibrahimpur, Kafrul, Dhaka, Bangladesh 🇧🇩
+📍 Location: Ibrahimpur, Kafrul, Dhaka, Bangladesh
 
 ---
 
