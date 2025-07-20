@@ -41,32 +41,21 @@ Currently exploring the world of **cross-platform app development**, I'm always 
 
 ## 🛠️ Skills & Technologies
 
-### 🎨 Frontend
-- Flutter, Dart  
-- HTML, CSS *(basic knowledge)*
+### 🧑‍💻 Languages & Frameworks
 
-### ⚙️ Backend *(learning soon)*
-- Firebase (upcoming)
-- REST APIs
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 💻 Programming Languages
-- Dart
-- C / C++
-- Planning to learn Python
+### 🔧 Tools & Platforms
 
-### 🧠 Tools & IDEs
-- VS Code
-- GitHub
-- Android Studio
-- IntelliJ IDEA
-- XAMPP
-
-### 🤖 AI Tools I've Used
-- ChatGPT
-- DeepSeek
-- Qwen AI Max
-- Claude AI
-- Google Gemini
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
@@ -88,11 +77,10 @@ Currently exploring the world of **cross-platform app development**, I'm always 
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abu-bakkar-siddique-sakib-374a38251/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Sakib360a)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abu-bakkar-siddique-sakib-374a38251/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Sakib360a)  
 
 ---
 
-> 💬 *Let’s build something amazing together!*
->  
-> ![Profile Views](https://komarev.com/ghpvc/?username=Sakib360a&color=blue)
+> 💬 *Let’s build something amazing together!*  
+> ![Profile Views](https://komarev.com/ghpvc/?username=Sakib360a&color=blue&style=flat-square)
