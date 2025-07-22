@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Abu Bakkar Siddique Sakib  
-🎯 Student | 💻 Flutter Developer | Dhaka, Bangladesh
+🎯 Student | 💻 Programmer | 💻 Flutter Developer | Dhaka, Bangladesh
 
 ---
 
