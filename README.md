@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Me
+## � About Me
 
 I'm a passionate Computer Science and Engineering student at **Dhaka City College**, focused on building efficient, scalable, and beautiful mobile applications using **Flutter** and **Dart**. With a strong foundation in **C/C++**, I love crafting elegant code and solving real-world problems through technology.
 
@@ -22,7 +22,7 @@ Currently exploring the world of **cross-platform app development**, I'm always 
 
 ---
 
-## 🔥 What I’m Working On
+## 🔥 What I'm Working On
 
 - ✅ **ToDo List App** – Track daily tasks with an intuitive Flutter interface
 - 🌍 **Travel App** – Plan and book tour packages easily on mobile
@@ -61,7 +61,7 @@ Currently exploring the world of **cross-platform app development**, I'm always 
 
 ## 📊 GitHub Stats
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sakib360a&theme=github-dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sakib360a&theme=dark)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sakib360a&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -80,5 +80,5 @@ Currently exploring the world of **cross-platform app development**, I'm always 
 
 ---
 
-> 💬 *Let’s build something amazing together!*  
+> 💬 *Let's build something amazing together!*  
 > ![Profile Views](https://komarev.com/ghpvc/?username=Sakib360a&color=blue&style=flat-square)
