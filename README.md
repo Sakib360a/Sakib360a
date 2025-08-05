@@ -61,9 +61,7 @@ Currently exploring the world of **cross-platform app development**, I'm always 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sakib360a&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sakib360a&theme=github-dark" alt="GitHub Streak" /></a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sakib360a&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
