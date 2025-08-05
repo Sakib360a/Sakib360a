@@ -3,7 +3,7 @@
 
 ---
 
-## � About Me
+## 💫 About Me
 
 I'm a passionate Computer Science and Engineering student at **Dhaka City College**, focused on building efficient, scalable, and beautiful mobile applications using **Flutter** and **Dart**. With a strong foundation in **C/C++**, I love crafting elegant code and solving real-world problems through technology.
 
@@ -24,18 +24,18 @@ Currently exploring the world of **cross-platform app development**, I'm always 
 
 ## 🔥 What I'm Working On
 
-- ✅ **ToDo List App** – Track daily tasks with an intuitive Flutter interface
-- 🌍 **Travel App** – Plan and book tour packages easily on mobile
-- 🛒 **E-Commerce App** – Seamless online shopping experience
-- 🩺 **Medico App** – Telemedicine app for doctor consultation & appointments
+- ✅ **ToDo List App** – Track daily tasks with an intuitive Flutter interface  
+- 🌍 **Travel App** – Plan and book tour packages easily on mobile  
+- 🛒 **E-Commerce App** – Seamless online shopping experience  
+- 🩺 **Medico App** – Telemedicine app for doctor consultation & appointments  
 
 ---
 
 ## 📚 Currently Learning
 
-- Mastering **Flutter & Dart** for building polished mobile UIs
-- Planning to learn **Firebase**, **Backend Integration**, and **Clean Architecture**
-- Exploring tools like **GitHub**, **VS Code**, and **Android Studio** in-depth
+- Mastering **Flutter & Dart** for building polished mobile UIs  
+- Planning to learn **Firebase**, **Backend Integration**, and **Clean Architecture**  
+- Exploring tools like **GitHub**, **VS Code**, and **Android Studio** in-depth  
 
 ---
 
@@ -61,7 +61,9 @@ Currently exploring the world of **cross-platform app development**, I'm always 
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sakib360a&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sakib360a&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sakib360a&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -75,8 +77,8 @@ Currently exploring the world of **cross-platform app development**, I'm always 
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abu-bakkar-siddique-sakib-374a38251/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Sakib360a)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abu-bakkar-siddique-sakib-374a38251/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Sakib360a)
 
 ---
 
