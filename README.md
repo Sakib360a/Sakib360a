@@ -63,7 +63,7 @@ Currently exploring the world of **cross-platform app development**, I'm always 
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Sakib360a&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=%3CSakib360a%3E&theme=github-dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
