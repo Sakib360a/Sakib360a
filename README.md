@@ -28,6 +28,7 @@ Currently exploring the world of **cross-platform app development**, I'm always 
 - 🌍 **Travel App** – Plan and book tour packages easily on mobile  
 - 🛒 **E-Commerce App** – Seamless online shopping experience  
 - 🩺 **Medico App** – Telemedicine app for doctor consultation & appointments  
+- 🩺 **Product Inventory** – E-Commerce App product inventory design
 
 ---
 
